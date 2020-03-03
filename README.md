@@ -1,8 +1,8 @@
-# IZTAGRAM App
+# IZ\*TAGRAM App
 
 Built using: Node.js, Express, Phantobuster (3rd party api).
 
-# About IZTAGRAM
+# About IZ\*TAGRAM
 
 • Fetches data on a specific hashtag('#izone') on Instagram.
 
@@ -10,6 +10,6 @@ Built using: Node.js, Express, Phantobuster (3rd party api).
 
 • The number of results per refresh depends on the 3rd party api settings (Phantombuster).
 
-# Visit IZTAGRAM
+# Visit IZ\*TAGRAM
 
 https://iztagram.herokuapp.com/

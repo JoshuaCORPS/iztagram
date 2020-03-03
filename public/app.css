@@ -1,0 +1,64 @@
+.img-thumbnail img{
+	width: 100%;
+}
+
+.img-thumbnail{
+	padding: 0;
+	width: 500px;
+}
+
+.img-thumbnail .caption-full{
+	padding: 9px;
+}
+
+.card-margin{
+	margin: 15px 0;
+}
+
+.text-margin{
+	margin: 10px 10px
+}
+
+.row-margin{
+	margin: 10px 0
+}
+
+.show{
+	margin: 25px 0
+}
+
+#inline{
+	display: inline;
+}
+
+.heart-color {
+    color: rgba(255, 0, 0, 0.74);
+}
+
+.caption-full p{
+	width: 100%;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.show{
+	margin: 0;
+}
+
+.comment-set{
+	margin: 0 15px;
+}
+
+.sidebar{
+	padding-left: 5px;
+	border-left: 1px solid #000;
+	margin: 3%;
+}
+
+.nav-col{
+	background-color: #fff;
+}
+
+.margin-content{
+	margin: 75px 0;
+}
